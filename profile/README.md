@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/-PS3-informational?style=for-the-badge&logo=playstation3&logoColor=white&color=success)
 ![](https://img.shields.io/badge/-PS4-informational?style=for-the-badge&logo=playstation4&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-PS5-informational?style=for-the-badge&logo=playstation5&logoColor=white&color=red)
+![](https://img.shields.io/badge/-PSP-informational?style=for-the-badge&logo=sony&logoColor=white&color=success)
 ![](https://img.shields.io/badge/-Vita-informational?style=for-the-badge&logo=playstationvita&logoColor=white&color=success)
 ![](https://img.shields.io/badge/-3DS-informational?style=for-the-badge&logo=nintendo3ds&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-GameCube-informational?style=for-the-badge&logo=nintendogamecube&logoColor=white&color=yelloq)
